@@ -1,6 +1,6 @@
 [project]
 name = "comfyui-trackingnodes"
-description = ""
+description = "A set of nodes to track objects through videos using YOLO and other processors."
 version = "1.0.0"
 license = "LICENSE"
 dependencies = ["numpy", "supervision", "ultralytics", "timm", "scikit-image"]
