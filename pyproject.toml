@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-trackingnodes"
+description = ""
+version = "1.0.0"
+license = "LICENSE"
+dependencies = ["numpy", "supervision", "ultralytics", "timm", "scikit-image"]
+
+[project.urls]
+Repository = "https://github.com/logtd/ComfyUI-TrackingNodes"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-TrackingNodes"
+Icon = ""
